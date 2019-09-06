@@ -1,0 +1,4 @@
+
+url : 'https://www.caut.ca/about-us/members-locals'
+xpath : '//div[@class="field-items"]//li/a'
+output : 'caut_orgs.txt'
